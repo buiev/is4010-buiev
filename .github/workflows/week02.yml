@@ -1,5 +1,6 @@
 name: Week 02 - AI-Assisted Development
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'week02/**'
