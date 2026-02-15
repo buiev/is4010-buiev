@@ -38,7 +38,8 @@ def is_prime(number):
 
     Returns
     -------
-    bool        True if the number is prime, False otherwise.
+    bool
+        True if the number is prime, False otherwise.
 
     Examples
     --------
@@ -61,11 +62,13 @@ def reverse_string(s):
 
     Parameters
     ----------
-    s : str        The string to be reversed.
+    s : str
+        The string to be reversed.
 
     Returns
     -------
-    str        The reversed string.
+    str
+        The reversed string.
 
     Examples
     --------
