@@ -1,3 +1,6 @@
+__all__ = ["Book", "EBook"]
+
+
 class Book:
     """Simple Book class.
 
